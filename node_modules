@@ -1,0 +1,3 @@
+node_modules:
+file cant be  uploaded since more than 1000 files.
+command npm init and then downloading the dependencies using install <dependency name> can get us node_modules folder with all the files requrired
